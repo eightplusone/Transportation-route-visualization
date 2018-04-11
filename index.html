@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Project 1</title>
+    <meta name="description" content="Project 1">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">        
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <!-- Menu -->
+    <div class="menu col-xs-12">
+        <div class="col-xs-6"><center><a href="index.html"><h5>Map</h5></a></center></div>
+        <div class="col-xs-6"><center><a href="trip.html"><h5>Trips</h5></a></center></div>
+    </div>
+
+    <!-- Main content -->
+    <div class="main">
+        <div class="col-xs-3" id="map_instruction">
+            <h3>Transportation Map</h3>
+            <h4>by Hai Tran</h4>
+            <p>
+                This project was created when I had just moved to Chicago and did
+                not even know what "the loop" was. To familiarize myself with the
+                public transportations, I jumped on trains/buses and noted down all 
+                the stations that they stopped by. Number of passengers on/off at
+                each station is an extra piece of information to help me memorize 
+                some main transfer hubs.<br />
+            </p>
+            <b>A few notes about the map:</b>
+            <ul>
+                <li>Train lines are colored by their name, and bus lines are painted in white.</li>
+                <li>You can mouseover a path to see which train/bus line it is. Mouseout to dismiss the message.</li>
+                <li>Click on a marker is view information about that stop/station.</li>
+                <li>The circles indicate the direction of the trains/buses that I took (Not the actual size of the cars...).</li>
+                <li>The paths' colors are HTML default colors ("pink," "red," etc.), so it is not my fault if brown and red look too similar. However, it was me who picked the style of the map. Please do not blame Donald Trump.
+                <li>No unicorns were harmed in the making of this map.</li>
+            </ul>
+        </div>
+        <div class="col-xs-9" id="map"></div>
+    </div>
+    <script type="text/javascript" src="js/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAM-jWAuH88nGV08Y_O-xxIPSR35A7Fyt4&callback=initMap" async defer></script>
+
+</body>
+</html>

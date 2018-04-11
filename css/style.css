@@ -1,0 +1,27 @@
+html, body {
+	height: 100%;
+}
+
+.menu {
+  padding: 10px;
+}
+
+.main {
+  height: 95%;
+  margin: auto;
+  padding: 10px;
+}
+
+#mapfeatures, #map {
+  height: 100%;
+}
+
+/* 
+ * http://bl.ocks.org/mbostock/3883245
+ */
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}

@@ -1,0 +1,307 @@
+{
+	"trips": [
+		{
+			"date": "//",
+			"time": ":",
+			"line": "",
+			"locations": [
+				{"stopId": 0, "on": 0, "off": 0}
+			]
+		},
+		{
+			"date": "08/27/2016",
+			"time": "12:30",
+			"line": "Pink",
+			"from": "54th/Cermak",
+			"to": "Loop",
+			"locations": [
+				{"stopId": 1, "on": 3, "off": 0},
+				{"stopId": 2, "on": 1, "off": 0},
+				{"stopId": 3, "on": 4, "off": 0},
+				{"stopId": 4, "on": 12, "off": 0},
+				{"stopId": 5, "on": 8, "off": 2},
+				{"stopId": 6, "on": 2, "off": 1},
+				{"stopId": 7, "on": 0, "off": 2},
+				{"stopId": 8, "on": 3, "off": 1},
+				{"stopId": 9, "on": 3, "off": 14},
+				{"stopId": 10, "on": 0, "off": 10}
+			]
+		},
+		{
+			"date": "08/27/2016",
+			"time": "13:00",
+			"line": "Red",
+			"from": "95th",
+			"to": "Howard",
+			"locations": [
+				{"stopId": 11, "on": 16, "off": 0},
+				{"stopId": 12, "on": 0, "off": 6},
+				{"stopId": 13, "on": 4, "off": 2},
+				{"stopId": 14, "on": 5, "off": 3},
+				{"stopId": 15, "on": 0, "off": 3},
+				{"stopId": 16, "on": 7, "off": 4}
+			]
+		},
+		{
+			"date": "08/27/2016",
+			"time": "15:50",
+			"line": "Brown",
+			"from": "Kimball",
+			"to": "Loop",
+			"locations": [
+				{"stopId": 16, "on": 5, "off": 4},
+				{"stopId": 17, "on": 2, "off": 4},
+				{"stopId": 18, "on": 3, "off": 0},
+				{"stopId": 19, "on": 3, "off": 3},
+				{"stopId": 20, "on": 2, "off": 6},
+				{"stopId": 21, "on": 2, "off": 6}
+			]
+		},
+		{
+			"date": "08/27/2016",
+			"time": "16:15",
+			"line": "Pink",
+			"from": "54th/Cermak",
+			"to": "Loop",
+			"locations": [
+				{"stopId": 21, "on": 5, "off": 0},
+				{"stopId": 8, "on": 1, "off": 0},
+				{"stopId": 7, "on": 1, "off": 1},
+				{"stopId": 6, "on": 3, "off": 1},
+				{"stopId": 5, "on": 0, "off": 2},
+				{"stopId": 4, "on": 2, "off": 2},
+				{"stopId": 3, "on": 0, "off": 3},
+				{"stopId": 2, "on": 0, "off": 0},
+				{"stopId": 1, "on": 1, "off": 9}
+			]
+		},
+		{
+			"date": "08/28/2016",
+			"time": "10:35",
+			"line": "Pink",
+			"from": "54th/Cermak",
+			"to": "Loop",
+			"locations": [
+				{"stopId": 1, "on": 3, "off": 0},
+				{"stopId": 2, "on": 1, "off": 0},
+				{"stopId": 3, "on": 7, "off": 0},
+				{"stopId": 4, "on": 4, "off": 0},
+				{"stopId": 5, "on": 0, "off": 2},
+				{"stopId": 6, "on": 0, "off": 1},
+				{"stopId": 7, "on": 0, "off": 2},
+				{"stopId": 8, "on": 5, "off": 1},
+				{"stopId": 9, "on": 1, "off": 8},
+				{"stopId": 10, "on": 0, "off": 7}
+			]
+		},
+		{
+			"date": "08/28/2016",
+			"time": "11:00",
+			"line": "Red",
+			"from": "95th",
+			"to": "Howard",
+			"locations": [
+				{"stopId": 11, "on": 8, "off": 21},
+				{"stopId": 16, "on": 2, "off": 3},
+				{"stopId": 22, "on": 0, "off": 6},
+				{"stopId": 23, "on": 2, "off": 1},
+				{"stopId": 24, "on": 0, "off": 9}
+			]
+		},
+		{
+			"date": "08/28/2016",
+			"time": "11:35",
+			"line": "Red",
+			"from": "95th",
+			"to": "Howard",
+			"locations": [
+				{"stopId": 24, "on": 10, "off": 0},
+				{"stopId": 25, "on": 0, "off": 0},
+				{"stopId": 26, "on": 1, "off": 0},
+				{"stopId": 27, "on": 0, "off": 0},
+				{"stopId": 28, "on": 1, "off": 0},
+				{"stopId": 29, "on": 3, "off": 0},
+				{"stopId": 30, "on": 1, "off": 3},
+				{"stopId": 31, "on": 0, "off": 6}
+			]
+		},
+		{
+			"date": "08/29/2016",
+			"time": "11:50",
+			"line": "21",
+			"from": "54th/Cermak",
+			"to": "Mercy Hospital",
+			"locations": [
+				{"stopId": 32, "on": 4, "off": 3},
+				{"stopId": 33, "on": 2, "off": 0},
+				{"stopId": 34, "on": 2, "off": 3},
+				{"stopId": 35, "on": 0, "off": 0},
+				{"stopId": 36, "on": 0, "off": 0},
+				{"stopId": 37, "on": 0, "off": 1},
+				{"stopId": 38, "on": 0, "off": 2},
+				{"stopId": 39, "on": 1, "off": 0},
+				{"stopId": 40, "on": 1, "off": 0},
+				{"stopId": 41, "on": 1, "off": 0},
+				{"stopId": 42, "on": 1, "off": 4}
+			]
+		},
+		{
+			"date": "08/29/2016",
+			"time": "12:00",
+			"line": "60",
+			"from": "Cicero/24th PL East",
+			"to": "Harbor Dr/Randolph",
+			"locations": [
+				{"stopId": 42, "on": 3, "off": 2},
+				{"stopId": 43, "on": 4, "off": 0},
+				{"stopId": 44, "on": 0, "off": 0},
+				{"stopId": 45, "on": 1, "off": 1},
+				{"stopId": 46, "on": 2, "off": 2},
+				{"stopId": 47, "on": 0, "off": 0},
+				{"stopId": 48, "on": 0, "off": 0},
+				{"stopId": 49, "on": 0, "off": 0},
+				{"stopId": 50, "on": 0, "off": 0},
+				{"stopId": 51, "on": 0, "off": 2},
+				{"stopId": 52, "on": 3, "off": 0},
+				{"stopId": 53, "on": 1, "off": 0},
+				{"stopId": 54, "on": 1, "off": 1},
+				{"stopId": 55, "on": 0, "off": 1},
+				{"stopId": 56, "on": 4, "off": 3}
+			]
+		},
+		{
+			"date": "08/29/2016",
+			"time": "16:45",
+			"line": "157",
+			"from": "Ogden/California",
+			"to": "Chestnut/Lake Shore",
+			"locations": [
+				{"stopId": 57, "on": 0, "off": 0},
+				{"stopId": 58, "on": 0, "off": 0},
+				{"stopId": 59, "on": 0, "off": 2},
+				{"stopId": 60, "on": 0, "off": 2},
+				{"stopId": 61, "on": 0, "off": 3},
+				{"stopId": 62, "on": 1, "off": 3},
+				{"stopId": 63, "on": 0, "off": 5},
+				{"stopId": 64, "on": 0, "off": 0},
+				{"stopId": 65, "on": 0, "off": 1},
+				{"stopId": 66, "on": 1, "off": 3}
+			]
+		},
+		{
+			"date": "08/29/2016",
+			"time": "17:00",
+			"line": "Pink",
+			"from": "54th/Cermak",
+			"to": "Loop",
+			"locations": [
+				{"stopId": 5, "on": 4, "off": 5},
+				{"stopId": 4, "on": 0, "off": 3},
+				{"stopId": 3, "on": 0, "off": 4},
+				{"stopId": 2, "on": 0, "off": 7},
+				{"stopId": 1, "on": 1, "off": 6}
+			]
+		},
+		{
+			"date": "08/30/2016",
+			"time": "07:55",
+			"line": "Pink",
+			"from": "54th/Cermak",
+			"to": "Loop",
+			"locations": [
+				{"stopId": 1, "on": 7, "off": 0},
+				{"stopId": 2, "on": 1, "off": 1},
+				{"stopId": 3, "on": 9, "off": 1},
+				{"stopId": 4, "on": 13, "off": 1},
+				{"stopId": 5, "on": 2, "off": 3}
+			]
+		},
+		{
+			"date": "08/30/2016",
+			"time": "08:20",
+			"line": "157",
+			"from": "Ogden/California",
+			"to": "Chestnut/Lake Shore",
+			"locations": [
+				{"stopId": 64, "on": 1, "off": 1},
+				{"stopId": 63, "on": 5, "off": 0},
+				{"stopId": 62, "on": 1, "off": 0},
+				{"stopId": 61, "on": 1, "off": 0},
+				{"stopId": 60, "on": 0, "off": 0},
+				{"stopId": 59, "on": 0, "off": 0},
+				{"stopId": 58, "on": 3, "off": 1},
+				{"stopId": 57, "on": 0, "off": 6}
+			]
+		}
+	],
+
+	"stops": [
+		{"name": "", "lat": 0, "lng": 0},
+		{"name": "California (Pink)", "lat": 41.854115, "lng": -87.694772},
+		{"name": "Western (Pink)", "lat": 41.854373, "lng": -87.685010},
+		{"name": "Damen (Pink)", "lat": 41.854528, "lng": -87.675871},
+		{"name": "18th (Pink)", "lat": 41.857957, "lng": -87.669052},
+		{"name": "Polk (Pink)", "lat": 41.871492, "lng": -87.669571},
+		{"name": "Ashland (Pink)", "lat": 41.885247, "lng": -87.666976},
+		{"name": "Morgan (Pink)", "lat": 41.885534, "lng": -87.651912},
+		{"name": "Clinton (Pink)", "lat": 41.885628, "lng": -87.641235},
+		{"name": "Clark/Lake", "lat": 41.885719, "lng": -87.631484},
+		{"name": "State/Lake", "lat": 41.885758, "lng": -87.627880},
+		{"name": "Lake", "lat": 41.884991, "lng": -87.627708},
+		{"name": "Grand", "lat": 41.891732, "lng": -87.628223},
+		{"name": "Chicago (Red)", "lat": 41.896568, "lng": -87.628411},
+		{"name": "Clark/Division", "lat": 41.903654, "lng": -87.632773},
+		{"name": "North/Clybourn", "lat": 41.9073256, "lng": -87.6510434},
+		{"name": "Fullterton", "lat": 41.9222073, "lng": -87.6572661},
+		{"name": "Amitage", "lat": 41.9222073, "lng": -87.6572661},
+		{"name": "Sedgwick", "lat": 41.9103437, "lng": -87.6450138},
+		{"name": "Chicago (Brown)", "lat": 41.888248, "lng": -87.6446454},
+		{"name": "Merchandise/Mart", "lat": 41.888889, "lng": -87.633888},
+		{"name": "Washington/Wells", "lat": 41.882627, "lng": -87.633888},
+		{"name": "Belmont", "lat": 41.934652, "lng": -87.6564686},
+		{"name": "Addison", "lat": 41.9466706, "lng": -87.6571552},
+		{"name": "Howard", "lat": 42.0175552, "lng": -87.6748363},
+		{"name": "Jarvis", "lat": 42.0175552, "lng": -87.6748363},
+		{"name": "Morse", "lat": 42.0095839, "lng": -87.6717679},
+		{"name": "Loyola", "lat": 42.004657, "lng": -87.669665},
+		{"name": "Thorndale", "lat": 41.9901614, "lng": -87.665395},
+		{"name": "Bryn Mawr", "lat": 41.9834467, "lng": -87.6628415},
+		{"name": "Berwyn", "lat": 41.9752477, "lng": -87.6633994},
+		{"name": "Argyle", "lat": 41.9752477, "lng": -87.6633994},
+		{"name": "Cermak/Rockwell", "lat": 41.8518156, "lng": -87.6902615},
+		{"name": "2500 W Cermak", "lat": 41.8518965, "lng": -87.6890197},
+		{"name": "Western", "lat": 41.851951, "lng": -87.685775},
+		{"name": "Oakley", "lat": 41.851987, "lng": -87.683040},
+		{"name": "Cermak/Leavitt", "lat": 41.851951, "lng": -87.680499},
+		{"name": "Cermak/Hoyne", "lat": 41.8513596, "lng": -87.6799357},
+		{"name": "Cermak/Damen", "lat": 41.8517832, "lng": -87.6755261},
+		{"name": "Cermak/Wolcott", "lat": 41.852125, "lng": -87.673483},
+		{"name": "Cermak/Wood", "lat": 41.8520359, "lng": -87.6713768},
+		{"name": "Cermak/Paulina", "lat": 41.852205, "lng": -87.668564},
+		{"name": "Cermak/Ashland", "lat": 41.8522786, "lng": -87.6659453},
+		{"name": "Cermak/Laflin", "lat": 41.8511758, "lng": -87.6665032},
+		{"name": "Cermak/Loomis", "lat": 41.8513996, "lng": -87.6642394},
+		{"name": "Loomis/Cullerton", "lat": 41.8542605, "lng": -87.6636708},
+		{"name": "Loomis/Blue Island", "lat": 41.8564901, "lng": -87.6635635},
+		{"name": "16th", "lat": 41.859629, "lng": -87.659527},
+		{"name": "15th", "lat": 41.861514, "lng": -87.657907},
+		{"name": "Racine/14th", "lat": 41.8635393, "lng": -87.656571},
+		{"name": "Racine/13th", "lat": 41.865145, "lng": -87.656460},
+		{"name": "Racine/Roosevelt", "lat": 41.8668186, "lng": -87.6569056},
+		{"name": "Racine/Taylor", "lat": 41.869308, "lng": -87.656610},
+		{"name": "Racine/Lexington", "lat": 41.8720812, "lng": -87.6568405},
+		{"name": "Harrison", "lat": 41.873933, "lng": -87.656856},
+		{"name": "1100 W Harrison", "lat": 41.8742292, "lng": -87.6543991},
+		{"name": "Harrison/Morgan", "lat": 41.8743246, "lng": -87.6521815},
+		{"name": "900 W Taylor", "lat": 41.8696275, "lng": -87.6486111},
+		{"name": "Taylor/Morgan", "lat": 41.8695538, "lng": -87.6516201},
+		{"name": "Taylor/Aberdeen", "lat": 41.8695209, "lng": -87.6542513},
+		{"name": "Taylor/Racine", "lat": 41.869468, "lng": -87.656701},
+		{"name": "Taylor/Throop", "lat": 41.8693801, "lng": -87.6591886},
+		{"name": "Taylor/Loomis", "lat": 41.8693621, "lng": -87.6615315},
+		{"name": "Taylor/Laflin", "lat": 41.8693636, "lng": -87.6641225},
+		{"name": "Taylor/Ashland", "lat": 41.869338, "lng": -87.666278},
+		{"name": "Taylor/Paulina", "lat": 41.8692942, "lng": -87.6699308},
+		{"name": "Polk Pink Line Station", "lat": 41.8710998, "lng": -87.6698611}
+	]
+}
